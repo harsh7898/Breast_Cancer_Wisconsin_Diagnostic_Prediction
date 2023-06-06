@@ -23,7 +23,6 @@ https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)
 # Attribute Information:
 
      Attribute                      Domain
-   -- -----------------------------------------
    1. Sample code number            id number
    2. Clump Thickness               1 - 10
    3. Uniformity of Cell Size       1 - 10
