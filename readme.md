@@ -1,11 +1,11 @@
-**Project Title: **
+# Project Title:
 Breast Cancer Wisconsin Diagnostic Prediction
 
-**Description: ** 
+# Description: 
 This breast cancer databases was obtained from the University of Wisconsin Hospitals, Madison from Dr. William H. Wolberg.
 Here we have few features, and using them we built a classification model with 2 classes Benign and Malignant denoted as 2 and 4 in data.
 
-**Data Source and Acknowledgement: **
+# Data Source and Acknowledgement:
 https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)
    -- Dr. WIlliam H. Wolberg (physician)
       University of Wisconsin Hospitals
@@ -20,9 +20,9 @@ https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)
       Proceedings of the National Academy of Sciences, U.S.A., Volume 87, 
       December 1990, pp 9193-9196.
 
-**Attribute Information: **
+# Attribute Information:
 
-   #  Attribute                     Domain
+     Attribute                      Domain
    -- -----------------------------------------
    1. Sample code number            id number
    2. Clump Thickness               1 - 10
